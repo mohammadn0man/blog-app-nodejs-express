@@ -2,6 +2,10 @@
 
 A Blog app Node.js app using [Express 4](http://expressjs.com/).
 
+## See the demo 
+
+[Blog App](http://blog-app-nodejs-express.herokuapp.com/).
+
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
