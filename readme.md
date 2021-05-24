@@ -1,6 +1,7 @@
 # node-js-blog-app
 
 A Blog app Node.js app using [Express 4](http://expressjs.com/).
+MongoDB is used for datastorage at Atlas.
 
 ## See the demo 
 
@@ -12,22 +13,10 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 npm install
-npm devStart
+npm run devStart
 ```
 
 Your app should now be running on [localhost:5001](http://localhost:5001/).
-
-## Deploying to Heroku
-
-```
-heroku create
-git push heroku master
-heroku open
-```
-
-Alternatively, you can deploy your own copy of the app using the web-based flow:
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Documentation
 
